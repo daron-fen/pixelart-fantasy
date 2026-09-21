@@ -1,21 +1,22 @@
 # 🌲 Pixelart Fantasy - Omarchy Theme
 
-Um tema personalizado para o **Omarchy Linux**, trazendo uma atmosfera clássica de RPG de Fantasia em Pixel Art combinado com o dinamismo do **Hyprland**.
+Um tema para o **Omarchy Linux** com atmosfera de RPG em Pixel Art e a fluidez do **Hyprland**, usando tons de verde oliva, dourado e cinza.
 
-A identidade visual foi construída com paletas monocromáticas baseadas em tons de verde oliva, dourado envelhecido e cinza, projetadas para manter o terminal legível e esteticamente coeso.
+## 📸 Conceito e Wallpapers
 
-## 📸 Previews
-O tema conta com múltiplos wallpapers temáticos (Elfo Arqueiro, Guerreiro na Floresta Sombria, Templo Oriental).
+* **A Jornada dos Heróis:** Cavaleiro e Rainha na floresta.
+* **Os Guardiões da Mata:** Dupla de elfos.
+* **O Chipmunk Solitário:** Variações com o chipmunk explorando a natureza.
+* **As Margens do Loch (O Each-Uisge):** Ambiente à beira de um lago escocês com alusão ao espírito mitológico Each-Uisge.
 
-## 🛠️ O que está incluído
-* **Backgrounds:** Coleção de wallpapers em pixel art selecionados e gerados por IA.
-* **Colors.toml:** Gerenciamento centralizado de cores integrado ao ecossistema Aether.
-* **Icons & Assets:** Customizações visuais integradas para o ecossistema Omarchy.
+## 🛠 O que está incluído
+
+* **Backgrounds:** Wallpapers em pixel art.
+* **Colors.toml:** Sincronização de cores.
+* **Icons & Assets:** Customizações visuais.
 
 ## 🚀 Como usar
-Este tema é gerenciado nativamente pelo ecossistema Aether do Omarchy.
 
-1. Clone este repositório na sua máquina:
-  ```
-    omarchy theme install https://github.com/daron-fen/pixelart-fantasy
-  ```
+```bash
+omarchy theme install https://github.com
+```
